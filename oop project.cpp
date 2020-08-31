@@ -22,7 +22,7 @@ class general{
 			
 	
 			cout << "\nData "<<x<< endl;
-			cout << "Name: "; cin >> a[x].name;
+			cout << "Name:tyxt "; cin >> a[x].name;
 			cout << "Position: "; cin >> a[x].position;
 			cout << "Gender: "; cin >> a[x].gender;
 			x++;
